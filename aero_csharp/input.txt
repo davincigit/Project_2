@@ -1,0 +1,4 @@
+WingArea=1.0
+WingSpan=2.0
+FuselageLength=3.0
+FuselageDiameter=1.0

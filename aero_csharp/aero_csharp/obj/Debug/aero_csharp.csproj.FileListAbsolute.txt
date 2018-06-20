@@ -1,0 +1,6 @@
+c:\users\snehar\source\repos\aero_csharp\aero_csharp\obj\Debug\aero_csharp.csprojResolveAssemblyReference.cache
+c:\users\snehar\source\repos\aero_csharp\aero_csharp\obj\Debug\aero_csharp.csproj.CoreCompileInputs.cache
+c:\users\snehar\source\repos\aero_csharp\aero_csharp\bin\Debug\aero_csharp.exe
+c:\users\snehar\source\repos\aero_csharp\aero_csharp\bin\Debug\aero_csharp.pdb
+c:\users\snehar\source\repos\aero_csharp\aero_csharp\obj\Debug\aero_csharp.exe
+c:\users\snehar\source\repos\aero_csharp\aero_csharp\obj\Debug\aero_csharp.pdb
